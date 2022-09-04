@@ -1,0 +1,11 @@
+body {
+}
+.foods {
+}
+
+.food {
+  border: 1px solid #efefef;
+  margin: 5px 0;
+  padding: 5px;
+  width: auto;
+}
